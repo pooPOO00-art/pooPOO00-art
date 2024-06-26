@@ -1,66 +1,29 @@
-# Hi there, I'm Seo-kang chan! 👋❤️
-
-
-![header](https://capsule-render.vercel.app/api?text=kang_chan&animation=blink)
-
-## About Me
-
-안녕하세요! 저는 서강찬입니다. 소프트웨어 개발자이자 열정적인 문제 해결사입니다. 다양한 기술과 도구를 사용하여 혁신적인 솔루션을 만드는 것을 즐깁니다. 제 GitHub 프로필에 오신 것을 환영합니다!
-
-## Skills
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-### Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-## Projects
-
-### [Project Name 1](https://github.com/yourusername/projectname1)
-
-- **Description:** 프로젝트 1에 대한 간단한 설명.
-- **Tech Stack:** 사용된 주요 기술들 (예: React, Node.js, MongoDB)
-- **Highlights:**
-  - 주요 기능 1
-  - 주요 기능 2
-  - 주요 기능 3
-
-### [Project Name 2](https://github.com/yourusername/projectname2)
-
-- **Description:** 프로젝트 2에 대한 간단한 설명.
-- **Tech Stack:** 사용된 주요 기술들 (예: Python, Django, PostgreSQL)
-- **Highlights:**
-  - 주요 기능 1
-  - 주요 기능 2
-  - 주요 기능 3
-
-## GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## Contact
-
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your Name](https://www.linkedin.com/in/yourname)
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- **Blog:** [yourblog.com](https://yourblog.com)
-
----
-
-*이 프로필은 [홍서빈](https://github.com/hsbbsh)이 ❤️를 담아 작성했습니다.*
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dbb3b3,100:a349bc&height=240&text=HELLO&animation=fadeIn&fontColor=1a131b&fontSize=60" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  Hi there, I'm Seo-kang chan! 👋❤️. </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 안녕하세요! 저는 서강찬입니다. 소프트웨어 개발자이자 열정적인 문제 해결사입니다. 다양한 기술과 도구를 사용하여 혁신적인 솔루션을 만드는 것을 즐깁니다. 제 GitHub 프로필에 오신 것을 환영합니다! </div> 
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+          </div>
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:"> </a>
+         <a href=> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link="> </a>
+          </div>  <br> 
+    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkang%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+       </div> 
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=kang&bg_color=60,ae9e9e,a705c7&title_color=fffafa&text_color=fffafa"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang&layout=compact&bg_color=60,ae9e9e,a705c7&title_color=fffafa&text_color=fffafa"
+           /> </div> 
+    </div>
+    
